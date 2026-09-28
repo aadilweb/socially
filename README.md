@@ -131,3 +131,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Inspired by Tiago Forte's Building a Second Brain methodology
 - Thanks to the knowledge management community for continuous insights and improvements
+
+
+mai khud ka banaubnga
